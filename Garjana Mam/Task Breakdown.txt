@@ -1,0 +1,16 @@
+Phase 1
+1. Registration
+2. Task Creation
+
+Phase 2
+1. Display Task
+2. Display Task Tracker
+3. Display Comments
+
+Phase 3
+Attendance
+Excel Export
+
+Phase 4
+Invoice Generation
+

@@ -24,11 +24,20 @@ Show all the details
 Show a button to Start a task
 
 	Update the Task (Status)
-	Insert into tast Comment with Remark as Started
-	Insert into TastTracker
+	Insert into task Comment with Remark as Started
+	Insert into TaskTracker
 
 Redirect to TaskList
 
-In place of View, Show Edit Button
+In place of View button, Show Edit Button
 
 B. Edit Task
+
+User clicks on edit button we redirect to edit page,
+Here User can select the Status
+
+
+	Update the Task(Status,Assignee,Author)
+	insert task comment()
+	Update tasktracker
+

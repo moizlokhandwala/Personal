@@ -1,14 +1,23 @@
 ------------------------------------------------------------------------
 Tables
+
+
 1.User(ID,Name,Fathers Name,Address - Local & Permanent,Cell No.,whatsapp No.,EmailID,Password,RoleID,CRO No,date of ARticleship starting,date of Membership,Membership No.,date of Membership)
 2.Roles(Article,CA,Staff and Admin [ID,RoleName,Active])
 3.Features(FeatureID,RoleID,FeatureName,FeatureUrl,Active)
+
+
 4.Task(TaskID,Title,Description,StatusID,Assignee,Author,CreationDate)
 5.Comments(CommentID,TaskID,StatusID,UpdatedBy,Assignee,Remark,UpdateTime)
 6.TaskTracker(TrackerID,TaskID,StartedBy,StartTime,EndTime,Status)
-8.Attendance
-9.Attendance History 
+
+8.Attendance(UserID,FirstLoginTime,LastLogoutTime,Date)
+9.Attendance History(UserID,Intime,Operation,Date)
 10. Client
+
+
+
+
 
 
 

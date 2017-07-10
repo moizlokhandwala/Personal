@@ -1,0 +1,22 @@
+Phase 1
+1. Registration
+2. Task Creation
+
+1. Registration
+
+i. Create tables 
+1.User(ID,Name,Fathers Name,Address - Local & Permanent,Cell No.,whatsapp No.,EmailID,Password,RoleID,CRO No,date of ARticleship starting,date of Membership,Membership No.,date of Membership)
+2.Roles(Article,CA,Staff and Admin [ID,RoleName,Active])
+3.Features(FeatureID,RoleID,FeatureName,FeatureUrl,Active)
+
+ii. Create Classes
+1. User
+2. Roles
+3. Features
+4. DB Related classes
+5. Log Writing Classes
+
+iii. Web Pages
+1. Login
+2. Registration
+
