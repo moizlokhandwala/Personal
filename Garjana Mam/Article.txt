@@ -1,0 +1,6 @@
+Features Breakdown
+
+1. Update Assigned tasks
+2. View Task history(Self)
+3. View Attendance History(Self)
+4. Register Client

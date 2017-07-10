@@ -1,0 +1,10 @@
+Features breakdown - 
+
+1. Register
+2. Login
+3. View Users(Articles)
+4. Add task
+5. Update task
+6. View task history(Articles)
+7. View Attendance history(Articles)
+8. Register Client

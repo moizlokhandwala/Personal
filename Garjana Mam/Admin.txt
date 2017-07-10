@@ -1,0 +1,34 @@
+Features Breakdown
+
+1. Login
+2. View All the users
+3. Enable/ Disable a user
+4. Add Task
+5. Update task
+6. View Attendance History
+7. View Task History(User wise)
+8. Register Client
+
+
+
+A. Create Task
+
+Steps :- 
+ 
+List All Task with view button
+
+Click View Button
+
+Show all the details
+
+Show a button to Start a task
+
+	Update the Task (Status)
+	Insert into tast Comment with Remark as Started
+	Insert into TastTracker
+
+Redirect to TaskList
+
+In place of View, Show Edit Button
+
+B. Edit Task
