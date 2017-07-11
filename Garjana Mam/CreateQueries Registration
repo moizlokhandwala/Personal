@@ -1,0 +1,32 @@
+create table [User](
+ID int IDENTITY(1,1) primary key,
+Name varchar(200),
+FathersName varchar(200),
+AddressLocal varchar(500),
+AddressPermanent varchar(500),
+CellNumber varchar(20),
+WhatsappNumber varchar(20),
+EmailID varchar(300),
+[Password] varchar(10),
+RoleID int foreign key references [Roles](ID),
+CRONumber varchar(100),
+ArticleshipStartDate Datetime,
+MembershipDate Datetime,
+MembershipNumber varchar(100),
+Active int default 0 not null
+)
+
+
+Create table Roles(
+ID int IDENTITY(1,1) primary key,
+RoleName varchar(100),
+Active int default 1 not null)
+
+
+Create table Features
+(
+FeatureID int IDentity(1,1) primary key,
+RoleID int Foreign key references Roles(ID),
+FeatureName varchar(100),
+FeatureUrl varchar(300),
+Active int default 1 not null)
