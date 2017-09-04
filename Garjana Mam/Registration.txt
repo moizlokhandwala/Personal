@@ -39,13 +39,14 @@ For Admin
 information of Client
 
 1. Name of Organisation
-2. Organisation Structure
+2. Organisation Structure()
 3. Director/ Proprietor etc
 4. Address - Local & Permanent
-5. PAN No.
-6. TAN No.
-7. GST No.
+5. PAN No.(AlphaNUm)
+6. TAN No.(AlphaNUm)
+7. GST No.(AlphaNUm)
 8. Nature of Business
+9. Type(ex:- IT, Clothes, etc) Text Field
 9. Accountants Name
 4. Cell No.
 5. whatsapp No.
